@@ -1,0 +1,34 @@
+h3, h5, p.c, p.d {
+    font-family: 'Itim', cursive;
+    color: #b374ff;
+}
+p.a {
+    background-color: #1c1cff;
+    color: #fff;
+    font-size: 45px;
+    padding: 25px;
+}
+p, h1, p.c {
+font-family: 'Itim', cursive;
+}
+@media screen and (max-width:699px) {
+p.c, h3, h5, p.d {
+    color: #1c1cff;
+}
+p, p.c, h3, h5 {
+    font-family: 'Noto Sans Thai Looped', sans-serif;
+}
+p.a {
+    background-color: #007200;
+    font-size: 14px;
+}
+}
+@media screen and (min-width:780px) and (max-width:999px) {
+p.c, h3, h5, p.d {
+    color: #d85300;
+}
+p.a {
+    background-color: #c900db;
+    font-size: 14px;
+}
+}
