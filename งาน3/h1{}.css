@@ -1,0 +1,28 @@
+
+h1 {
+    width: 200px;
+    padding: 25px;
+    border: 10px black ;
+    background-color: rgb(255, 0, 0);
+    color: #ffe600;}
+    label{
+        padding: 1px;
+        border: 200px black ;
+        background-color: aqua;
+        color: rgb(23, 26, 243);
+}
+th{
+    width: 2%;
+    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+td{
+    width: 2%;
+    padding: 50px;
+    background-color: #ffe600;
+    color: #ff6600;
+}
+html{
+    background-color: rgb(167, 167, 167);
+}
