@@ -1,0 +1,22 @@
+body {
+    background-color: #007200;
+}
+p,h1 {
+    color: #fff67e;
+}
+@media screen and (max-width:980px) {
+    body {
+    background-color: #1c1cff;
+}
+    p,h1 {
+    color: #fff;
+}
+@media screen and (max-width:600px) {
+    body {
+    background-color: #000;
+  }
+    p,h1 {
+    color: #fff;
+  }
+}
+}
